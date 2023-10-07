@@ -1,23 +1,10 @@
-Course Description
-In this course students will learn the procedures, protocols and best practices that a DevOps
-engineer brings to a workplace environment to increase productivity. Analyze and evaluate
-various developer operation implementations available and implement hands-on work using
-industry standard toolkit. Create solutions to complex business problems by adhering to the core
-responsibilities of DevOps.
-Course Outcomes
-At the end of this course, the student will reliably demonstrate the ability to:
-1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions
-using industry standard tools and techniques such as continuous
-integration/delivery/deployment strategies, software development lifecycle, application
-containerization for deployment, etc.
-2. Perform hand-on lab work by applying DevOps techniques.
-3. Ensure effective cross collaboration amongst IT staff by following the role and
-responsibilities of an engineer.
-4. Analyze and utilize Version Control System workflows for low-risk software releases.
-5. Take well informed architectural decisions for software products, specifically in the
-context of monolith vs microservice architectures.
-6. Monitor code quality and deploy applications to hosting services.
-7. Utilize service platforms such as Infrastructure as Code and the associated benefits of
-cloud computing products.
-8. Identify the market space as a DevOps engineer. s.
+Software development is an iterative process that is followed for a software project that consists of several phases for building and running software applications. SDLC helps with the measurement and improvement of a process, which allows an analysis of software development each step of the way.
 
+How SDLC works
+SDLC simply outlines each task that is required to create and deploy a software application—this prevents the reduction of waste and increases efficiency along the way. Monitoring that is a part of SDLC helps companies ensure that everything is timely, budgets are adhered to, and the software continues to be a feasible investment. SDLC is often described as leveraging Agile or Waterfall approaches and many organizations use a hybrid of both.
+
+1. Identify the Current Problems
+ITSM is a strategic approach to IT management, with a focus on delivering value to customers. ITSM clearly defines the roles and responsibilities of every individual and department with regard to IT services. It allows for increased productivity, lower costs, and improved end-user satisfaction.
+
+2. Planning
+Leaders of the project evaluate the terms of the project, including the calculation of labor and material costs, to create a timetable with goals. Planning must also include areas of feedback from stakeholders or anybody who is going to benefit from the applications. The scope of the project should be clearly defined, the purpose of the application outlined, and the boundaries that are needed to keep the project from expanding beyond scope or shifting.
