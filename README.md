@@ -2,7 +2,26 @@
 
 # COMP 3104 ASSIGNMENT 1
 
-## 1) Meha Modi - 101371431
+## 1) [Meha Modi - 101371431](https://github.com/MehaModi/COMP3104GP21ASSIGNMENT01/tree/101371431-Meha)
+
+
+- Student Id :- 101371431
+- Email Id :- mehajayesh.modi@georgebrown.ca
+
+### FILES
+
+- [101371431_gb](101371431_gb.txt) (20 Points)
+
+  -- This file will contain information about George Brown college.
+
+- [101371431_devops](101371431_devops.txt) (20 Points)
+
+  -- This file will contain information about COMP 3104 DevOps course.
+
+- [101371431_sdlc](101371431_sdlc.txt) (20 Points)
+
+  -- This file will contain details about important of learning DevOps engineer in software development cycle.
+
 
 ## 2) [Kushal Patel - 101378571](https://github.com/MehaModi/COMP3104GP21ASSIGNMENT01/tree/101378751-Kushal)
 
